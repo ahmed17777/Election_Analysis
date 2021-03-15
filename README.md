@@ -41,5 +41,5 @@ The following is a screenshot of the results printed in Terminal using Python:
 ## Election-Audit Summary: 
 
 This Python script can be used to analyze any election. The use of variables throughout the script means that we can change the data without having a direct affect on the code. Examples of how this script can be reused include:
-> In the case of a federal election, we can change the "counties" to "states" and run the script normally 
+> In the case of a federal election, we can change the "counties" to "states" and run the script normally. 
 > In the case of a university student body election, we can use the same script and change the "counties" to "parties" 
